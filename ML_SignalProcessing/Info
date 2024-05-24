@@ -1,5 +1,0 @@
-Assignment 1 - Smallscale Data
-    + Use pytorch to load in-built dataloaders to load MNIST and Fashion-MNIST datasets.
-    + Create a custom dataset and load the MNIST and Fashion-MNIST datasets.
-    + Built a neural network to train the model, evaluate the performance of the model on Training and Test sets of MNIST and Fashion-MNIST datasets.
-    + Train the same model with augmented dataset and evaluate the performance on Training and Test sets.
