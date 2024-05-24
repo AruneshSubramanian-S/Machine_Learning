@@ -1,0 +1,4 @@
+Image processing
+    + Use PIL to load, edit and save an image.
+    + Perform different image manipulations on an image using PIL.
+    + Perform different image manipulations using Numpy.
