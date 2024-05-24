@@ -1,0 +1,9 @@
+Assignment 1 - Image processing
+    + Use PIL to load, edit and save an image.
+    + Perform different image manipulations on an image using PIL.
+    + Perform different image manipulations using Numpy.
+
+Assignment 2 - Filtering
+    + Use OpenCV to load image, do color changes and add different noises (Salt and Pepper Noise, Gaussian Noise) to the image.
+    + Create a CNN to perform 2d convolution using different kernels.
+    + Use OpenCV to performance different filtering options (Average, Gaussian, Median, Bilateral) and compare the performance.
