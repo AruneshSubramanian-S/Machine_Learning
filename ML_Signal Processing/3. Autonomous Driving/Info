@@ -1,1 +1,11 @@
+Autonomous driving - part 2
+    + Load the pickle file which contains dataset generated from previous assignment.
+    + Create a Convolution neural network whose output is a softmax function.
+    + Train a model to calculate the train, validation and test accuracies and errors.
+    + The dataset should be spit in the ratio 60:20:20.
+    + Do the same with augmented dataset - Horiontal flip and random rotation 
+    + Do the same with grayscale images and compare the performance of the model with difference inputs
+
+    - observation: The model does require the color to perform well, hence performance of the model is of the order 
+      unaugmented data > augmented data > grayscale image 
 
