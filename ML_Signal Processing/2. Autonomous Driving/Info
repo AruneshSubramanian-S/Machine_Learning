@@ -1,1 +1,5 @@
-
+Autonomous driving - part 1
+    + Setup a car racing environment using Gymnasium.
+    + Play the game to generate dataset consisting of 5000 images and ground-truth values.
+    + Create a custom dataset and perform vartical flip and horizontal flip on images randomly in addition to changing the background road color to brown.
+    + Study about Imitation learning and differentiate from Reinforcement learning.
